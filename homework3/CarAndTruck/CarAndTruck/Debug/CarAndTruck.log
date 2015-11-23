@@ -1,0 +1,36 @@
+﻿生成启动时间为 2015/11/10 13:41:52。
+     1>项目“C:\Users\ning\Documents\Visual Studio 2012\Projects\CarAndTruck\CarAndTruck\CarAndTruck.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CarAndTruck.cpp
+         CarAndTruck.cpp
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(248): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 d:\vs2012\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(250): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(259): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 d:\vs2012\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(280): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(282): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(284): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(286): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(288): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(290): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(306): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(308): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(310): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(312): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(314): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(316): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(338): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(357): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>c:\users\ning\documents\visual studio 2012\projects\carandtruck\carandtruck\carandtruck.cpp(322): warning C4101: “gmode”: 未引用的局部变量
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ning\Documents\Visual Studio 2012\Projects\CarAndTruck\Debug\CarAndTruck.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ning\Documents\Visual Studio 2012\Projects\CarAndTruck\Debug\CarAndTruck.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ning\Documents\Visual Studio 2012\Projects\CarAndTruck\Debug\CarAndTruck.lib" /MACHINE:X86 Debug\CarAndTruck.obj
+         CarAndTruck.vcxproj -> C:\Users\ning\Documents\Visual Studio 2012\Projects\CarAndTruck\Debug\CarAndTruck.exe
+     1>已完成生成项目“C:\Users\ning\Documents\Visual Studio 2012\Projects\CarAndTruck\CarAndTruck\CarAndTruck.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.60

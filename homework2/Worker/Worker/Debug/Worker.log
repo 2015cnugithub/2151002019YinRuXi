@@ -1,0 +1,18 @@
+﻿生成启动时间为 2015/10/14 20:46:33。
+     1>项目“C:\Users\ning\Documents\Visual Studio 2012\Projects\Worker\Worker\Worker.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Worker.cpp
+         Worker.cpp
+     1>c:\users\ning\documents\visual studio 2012\projects\worker\worker\worker.cpp(51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\worker\worker\worker.cpp(52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\worker\worker\worker.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\worker\worker\worker.cpp(101): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ning\documents\visual studio 2012\projects\worker\worker\worker.cpp(102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ning\Documents\Visual Studio 2012\Projects\Worker\Debug\Worker.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ning\Documents\Visual Studio 2012\Projects\Worker\Debug\Worker.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ning\Documents\Visual Studio 2012\Projects\Worker\Debug\Worker.lib" /MACHINE:X86 Debug\Worker.obj
+         Worker.vcxproj -> C:\Users\ning\Documents\Visual Studio 2012\Projects\Worker\Debug\Worker.exe
+     1>已完成生成项目“C:\Users\ning\Documents\Visual Studio 2012\Projects\Worker\Worker\Worker.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.71

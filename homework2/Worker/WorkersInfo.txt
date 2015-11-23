@@ -1,0 +1,5 @@
+jack 23 m 10
+alice 32 f 20
+john 43 m 30
+peter 30 m 40
+shelly 33 f 50
